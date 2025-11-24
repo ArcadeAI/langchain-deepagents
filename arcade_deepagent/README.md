@@ -17,7 +17,7 @@ The [`deepagents`](../../libs/deepagents) library implements four key capabiliti
 │  1. PLANNING TOOL (write_todos)                                 │
 │     Break complex tasks into trackable steps                    │
 ├─────────────────────────────────────────────────────────────────┤
-│  2. FILESYSTEM (ls, read_file, write_file, edit_file)          │
+│  2. FILESYSTEM (ls, read_file, write_file, edit_file)           │
 │     Offload context to memory, prevent token overflow           │
 ├─────────────────────────────────────────────────────────────────┤
 │  3. SUB-AGENTS (task)                                           │
