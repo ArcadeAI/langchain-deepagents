@@ -16,6 +16,7 @@ Here are the currently supported quickstarts:
 | Quickstart Name | Location | Description | Usage Options |
 |----------------|----------|-------------|---------------|
 | [Deep Research](deep_research/README.md) | `deep_research/` | A research agent that conducts multi-step web research using Tavily for URL discovery, fetches full webpage content, and coordinates work through parallel sub-agents and strategic reflection | **Jupyter Notebook** or **LangGraph Server** |
+| [Arcade Automation](arcade_deepagent/README.md) | `arcade_deepagent/` | A tier-1 service desk agent that plans work, edits Jira tickets, sends Slack/Gmail updates, and schedules Google Calendar events through Arcade connectors | **CLI** or **LangGraph Server** |
 
 ## Built-In Deepagent Components
 
